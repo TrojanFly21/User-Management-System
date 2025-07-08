@@ -1,0 +1,18 @@
+
+React
+===================================
+npx create-react-app user-management
+cd user-management
+npm start
+
+
+Django
+====================================
+django-admin startproject myproject
+cd myproject
+python manage.py startapp users
+--python manage.py makemigrations
+---python manage.py migrate
+python manage.py runserver
+
+
